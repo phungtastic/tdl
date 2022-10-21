@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://www.roczen.com"
+          href="https://www.google.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learning to code to escape Roczen
+          Learning to code to escape
         </a>
       </header>
     </div>
